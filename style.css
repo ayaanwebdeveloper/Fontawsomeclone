@@ -1,0 +1,206 @@
+header {
+    background-color: #FFFFFF;
+    border-bottom: 2px solid#dadada;
+}
+nav {
+    width: 80%;
+
+    margin-left: 50px;
+
+}
+#logo {
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    color: rgba(0, 0, 255, 0.582);
+    
+}
+#logo:hover {
+    color: #FAB005;
+    cursor: pointer;
+}
+ul {
+    display: inline-block;
+}
+li {
+    display: inline-block;
+    padding: 20px;
+    
+}
+li:hover {
+    color: #6B6BFF;
+    cursor: pointer;
+}
+li:active {
+    border: 5px solid #74C0FC;
+}
+#hello {
+    font-size: 36px;
+    display: inline-block;
+    position: absolute;
+    top: 140px;
+    left: 160px;
+}
+.Say {
+    display: inline-block;
+}
+.text {
+    width: 70%;
+    display: inline-block;  
+position: absolute;
+top: 150px;
+left: 220px;
+color: white;
+}
+.col {
+    background-color: #F36944;
+    width: 80%;
+    height: 100px;
+    border-radius: 20px;
+    margin: auto;
+    
+}
+.pre {
+    position: absolute;
+    top: 140px;
+    left: 940px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    box-shadow: 2px 8px black;
+
+}
+.pre:hover {
+    background-color: #C3C6D1;
+
+    cursor: pointer;
+
+}
+.b {
+  
+    height: 50px;
+    position: relative;
+    top: 20px;
+}
+.sb {
+    position: absolute;
+    top: 10px;
+    left: 25%;
+    width: 50%;
+    height: 30px;
+    border-radius: 20px;
+    padding-left: 40px;
+    
+}
+#si {
+    position: absolute;
+    top: 25px;
+    left: 350px;
+    z-index: 2;
+}
+.sb:focus {
+    border: 8px solid #74C0FC;
+    outline: none;
+}
+#git  {
+    font-size: 40px;
+    margin-top: 45px;
+    position: absolute;
+    left: 450px;
+}
+#git:hover {
+    color: #6B6BFF;
+    cursor: pointer;
+}
+.cola {
+    color: black;
+}
+
+
+
+
+#yt  {
+    font-size: 40px;
+    margin-top: 45px;
+    position: absolute;
+    left: 520px;
+}
+#yt:hover {
+    color: #6B6BFF;
+    cursor: pointer;
+}
+.yc{
+    color: black;
+}
+
+
+
+
+#side  {
+    font-size: 40px;
+    margin-top: 45px;
+    position: absolute;
+    left: 590px;
+}
+#side:hover {
+    color: #6B6BFF;
+    cursor: pointer;
+}
+.sel {
+    width: 200px;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+    height: 40px;
+border: 2px solid #dadada;
+    border-radius: 10px;
+}
+.sel:focus {
+    border: 2px solid blue;
+}
+.ver {
+    width: 200px;
+    position: absolute;
+    top: 310px;
+    left: 860px;
+    height: 40px;
+border: 2px solid #dadada;
+    border-radius: 10px;
+}
+.ver:focus {
+    border: 2px solid blue;
+}
+#l1 {
+margin-top: 130px;
+margin-left: 380px;
+    font-size: 30px;
+}
+.cl {
+    margin-top: 200px;
+margin-left: 366px;
+    font-size: 20px;
+}
+#l1:hover {
+    color: #6B6BFF;
+    cursor: pointer;
+}
+.ut {
+    position: absolute;
+    top: 350px;
+    font-size: 36px;
+    left: 330px;
+}
+#tp {
+    padding: 35px;
+}
+#tp:hover {
+    color: #6B6BFF;
+    border-bottom: 3px
+     solid #6B6BFF;
+
+}
+
+
